@@ -1,0 +1,5 @@
+SCREEN_W, SCREEN_H = 1150, 800
+WORLD_W, WORLD_H = 1600, 1600
+GRID_SIZE = 32
+FPS = 60
+SAVE_FILE = "savegame_pro.pkl"
